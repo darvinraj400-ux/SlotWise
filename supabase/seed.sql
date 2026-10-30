@@ -1,0 +1,1 @@
+-- Local seed placeholder. SlotWise ships without demo data so every metric is real.
